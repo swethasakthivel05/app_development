@@ -1,0 +1,26 @@
+.App {
+    display: flex;
+    flex-direction: column; 
+    align-items: center;
+    height: 100vh;
+    background-color: #f4f4f4;
+    margin: 0;
+    font-family: Arial, sans-serif;
+  }
+  
+  .navbar {
+    width: 100%; 
+  }
+  
+  .content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+    padding: 20px; 
+  }
+  
+  .spacer {
+    height: 50px; 
+  }
+  
